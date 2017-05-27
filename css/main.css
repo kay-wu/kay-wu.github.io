@@ -93,13 +93,13 @@ a:hover {
 	text-align: center;
 	position: relative;
 	top: 230px;
-	background-color: #F5F8F8;
+	background-color: #f2f8ff;
 	z-index: 2;
 }
 
 .bg {
     background: url(../bg.png) fixed top center;
-    background-color: #F5F8F8;
+    background-color: #f2f8ff;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
