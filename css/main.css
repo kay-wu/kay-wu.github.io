@@ -1,8 +1,8 @@
 html, body {
     height: 100%;
 	font-family: 'Old Standard TT', serif;
-	line-height: 32px;
-	font-size: 18px;
+	line-height: 30px;
+	font-size: 16px;
 	margin: 0;
 }
 
@@ -69,7 +69,7 @@ a {
 }
 
 a:hover {
-	color: #85b7e2;
+	color: #9fc4e0;
   	-webkit-transition: color 0.5s ease-in-out;
   -moz-transition: color 0.5s ease-in-out;
   -ms-transition: color 0.5s ease-in-out;
@@ -243,8 +243,8 @@ h1:hover {
 
 .about p {
 	font-family: 'Old Standard TT', serif;
-	line-height: 32px;
-	font-size: 18px;
+	line-height: 30px;
+  font-size: 16px;
 }
 
 .section {
@@ -270,8 +270,8 @@ h1:hover {
 
 .section p {
 	font-family: 'Old Standard TT', serif;
-	line-height: 32px;
-	font-size: 18px;
+	line-height: 30px;
+  font-size: 16px;
 }
 
 
