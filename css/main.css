@@ -324,3 +324,12 @@ h1:hover {
 	text-transform: uppercase;
 	color: #A9A9A9;
 }
+
+.footer a:hover {
+  color: #F3B0A6;
+    -webkit-transition: color 0.5s ease-in-out;
+  -moz-transition: color 0.5s ease-in-out;
+  -ms-transition: color 0.5s ease-in-out;
+  -o-transition: color 0.5s ease-in-out;
+  transition: color 0.5s ease-in-out;
+}
