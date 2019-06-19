@@ -129,7 +129,7 @@ a:hover {
 }
 
 .bg {
-    background: url(../bg.png) fixed top center;
+    background: url(../img/bg.png) fixed top center;
     background-color: #f2f8ff;
     background-size: cover;
     -webkit-background-size: cover;
