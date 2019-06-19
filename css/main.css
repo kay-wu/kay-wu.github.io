@@ -119,6 +119,15 @@ a:hover {
     top: 5px;
 }
 
+table {
+  padding: 0px 0px 175px 0px;
+}
+
+td {
+  height: 50px;
+  vertical-align: middle;
+}
+
 
 .header {
 	text-align: center;
@@ -237,11 +246,42 @@ h1:hover {
 
 .about .p {
 	background-color: #ffffff;
-	padding: 0px 200px 40px 200px;
+	padding: 0px 200px 100px 200px;
 	margin: 30px 0px 50px 0px;
 }
 
 .about p {
+	font-family: 'Old Standard TT', serif;
+	line-height: 30px;
+  font-size: 16px;
+}
+
+.projects {
+	position: relative;
+	padding: 0;
+}
+
+.projects .container {
+	padding: 120px 75px 0px 75px;
+	margin: 0px 125px;
+
+}
+
+.projects h2 {
+	font-family: "Roboto", sans-serif;
+	font-weight: 300;
+	letter-spacing: 5px;
+	font-size: 35px;
+	color: #F3B0A6;
+}
+
+.projects .p {
+	background-color: #ffffff;
+	padding: 0px 50px 125px 200px;
+	margin: 30px 0px 50px 0px;
+}
+
+.projects p {
 	font-family: 'Old Standard TT', serif;
 	line-height: 30px;
   font-size: 16px;
@@ -257,7 +297,7 @@ h1:hover {
 }
 
 .grid {
-	padding: 0px 100px 100px 100px;
+	padding: 0px 100px 125px 100px;
 }
 
 .section h2 {
