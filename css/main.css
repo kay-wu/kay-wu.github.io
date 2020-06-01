@@ -132,7 +132,7 @@ td {
 .header {
 	text-align: center;
 	position: relative;
-	top: 230px;
+	top: 270px;
 	background-color: #f2f8ff;
 	z-index: 2;
 }
@@ -184,7 +184,7 @@ h1:hover {
 
 .nav {
 	position: absolute;
-	top: 280px;
+	top: 320px;
 	text-transform: lowercase;
 	font-family: "Source Code Pro", monospace;
 	font-size: 22px;
